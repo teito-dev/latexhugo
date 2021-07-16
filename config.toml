@@ -1,4 +1,4 @@
-baseURL = "http://pages.github.com/" # Please enter your githubpage's url here
+baseURL = "https://teito-dev.github.io/latexhugo/" # Please enter your githubpage's url here
 languageCode = "en-us"
 title = "My Latex Notes"
 theme = "hyde"

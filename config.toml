@@ -8,6 +8,7 @@ theme = "hyde"
   main = [
       {Name = "Github", URL = "https://github.com/username/"},
       {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
+      {Name = "Index", URL = "https://teito-dev.github.io/latexhugo/category/"}
   ]
 
 [params]
